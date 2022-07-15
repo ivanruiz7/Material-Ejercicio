@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	color: #000;
+	background: #332F29;
+	margin: 0%;
+	padding: 0%;
+}
+#contenedor {
+	width: 100%;
+	background: #8FA68E;
+	margin-right:auto;
+	margin-left:auto;
+	overflow: hidden;
+}
+nav {
+	background: #ec3300;
+	
+	width: 100%;
+}
+ul {
+	list-style-type:none;
+}
+a {
+	color:#F1F2C0;
+	text-decoration: none;
+}
+section {
+	background: #F1F2C0;
+	margin-left: 0%;
+	width: 100%;
+	border-top: 3px solid #000000;
+border-bottom: 3px solid #000000;
+	}
+aside {
+	background: #CCC59E;
+	border-bottom: 3px solid #000000;
+	
+	
+	width: 100%;
+}
